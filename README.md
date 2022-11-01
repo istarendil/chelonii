@@ -1,6 +1,6 @@
 # Chelonii
 
-The Chelonii robot is a fully open-source physical-expermiental platform intended for the study of mobile robots control, artificial vision, navigation and machine learning. It is an effort to build a affordable platform for the students in the "Control of mobile robots" course to build their own low-cost platform that allows them to continue experiment and learning outside the campus. 
+The Chelonii robot is a fully open-source physical-expermiental platform intended for the study of mobile robots control, artificial vision, navigation and machine learning. It is an effort to build a affordable platform for the students in the "Control of mobile robots" course to be able to construct their own low-cost platform that allows them to continue experiment and learning outside the campus. 
 
 ![chelonii](https://user-images.githubusercontent.com/107052856/199276993-6e3d782b-1bfc-4d0a-a100-88c98a269a7a.png)
 
