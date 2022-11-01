@@ -16,5 +16,5 @@ The Chelonii robot is a fully open-source physical-expermiental platform intende
 # Demo
 - **This project is still at an early stage and efforts are being made on the mechanical design.**
 - **Some major changes will be made between the original mechanical structure and the current model.**
-- You can have a better look of the Maietuc through the following [link](https://www.youtube.com/watch?v=fcQv88dr8ls)
+- You can have a better look of the Chelonii through the following [link](https://www.youtube.com/watch?v=fcQv88dr8ls)
 
